@@ -1,0 +1,59 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 5
+
+newmtl Mat_6.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Tex\malehead.JPG
+
+newmtl Material.001
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\26924166-bump-mapa-de-textura-de-escamas-como-la-armadura-o-cota-de-malla.jpg
+
+newmtl Material.001_alduin.jpg
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Skyrim\ALDIUN\OBJ\tex\alduin.jpg
+
+newmtl Material.1
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\26924166-bump-mapa-de-textura-de-escamas-como-la-armadura-o-cota-de-malla.jpg
+map_Ka Skyrim\\ALDIUN\\OBJ\\tex\\alduineyes_g.jpg
+
+newmtl Material.1_alduineyes.jpg
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Skyrim\ALDIUN\OBJ\tex\alduineyes.jpg
+map_Ka Skyrim\\ALDIUN\\OBJ\\tex\\alduineyes_g.jpg

@@ -1,0 +1,166 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 15
+
+newmtl Buckler_Shield_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Buckler_Shield_diffuse.jpg
+
+newmtl Buckler_Shield_2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Mat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\droptomaterial,color,bump,displacement.jpg
+
+newmtl Mat.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Tex\malebody_1.bmp
+
+newmtl Mat_1.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Tex\cuirassplate.JPG
+
+newmtl Mat_2.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Tex\helmetplate.JPG
+
+newmtl Mat_3.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Tex\bootsplate.JPG
+
+newmtl Mat_4.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Tex\gauntletsplate.JPG
+
+newmtl Mat_5.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Tex\hairlong.bmp
+
+newmtl Mat_6.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Tex\malehead.JPG
+
+newmtl Material.001
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\26924166-bump-mapa-de-textura-de-escamas-como-la-armadura-o-cota-de-malla.jpg
+
+newmtl Material.001_alduin.jpg
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Skyrim\ALDIUN\OBJ\tex\alduin.jpg
+
+newmtl Material.1
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\26924166-bump-mapa-de-textura-de-escamas-como-la-armadura-o-cota-de-malla.jpg
+map_Ka Skyrim\\ALDIUN\\OBJ\\tex\\alduineyes_g.jpg
+
+newmtl Material.1_alduineyes.jpg
+Ns 47.058824
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Skyrim\ALDIUN\OBJ\tex\alduineyes.jpg
+map_Ka Skyrim\\ALDIUN\\OBJ\\tex\\alduineyes_g.jpg
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\Andres\Desktop\2019-1\Graficas\proyecto\Sovngarde.png
